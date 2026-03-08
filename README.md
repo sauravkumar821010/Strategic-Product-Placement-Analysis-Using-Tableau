@@ -1,10 +1,10 @@
-
 📊 Strategic Product Placement Analysis using Tableau
+<p align="center"> <b>Interactive Tableau dashboards to analyze how product placement, pricing strategies, promotions, and customer behavior influence retail sales.</b> </p>
+📌 Project Overview
 
+This project analyzes how product positioning, pricing strategies, promotions, and customer behavior influence retail sales performance.
 
-An interactive Tableau Data Visualization project that analyzes how product placement, pricing strategies, promotions, and customer behavior influence retail sales performance.
-
-This project converts raw retail data into interactive dashboards and stories to help businesses make data-driven decisions.
+Using Tableau dashboards and stories, raw retail data is transformed into interactive visual insights that help businesses make data-driven decisions about product placement and marketing strategies.
 
 🎯 Project Objectives
 
@@ -18,46 +18,62 @@ This project converts raw retail data into interactive dashboards and stories to
 
 👥 Analyze consumer segments
 
-📈 Provide interactive dashboards for insights
+📈 Provide interactive dashboards for business insights
 
 📊 Dashboard Preview
-Sales Performance & Product Placement Analysis
+🟦 Sales Performance & Product Placement Analysis
+<p align="center"> <img src="screenshots/dashboard1.png" width="900"> </p>
 
-Pricing & Promotion Strategy Analysis
+This dashboard analyzes:
+
+Average Sales Volume by Product Category
+
+Product Placement Impact (Front Store, Aisle, End-cap)
+
+Sales Distribution by Category
+
+Top N Products Analysis
+
+Consumer Segment vs Sales Volume
+
+Foot Traffic Impact on Sales
+
+🟧 Pricing & Promotion Strategy Analysis
+<p align="center"> <img src="screenshots/dashboard2.png" width="900"> </p>
+
+This dashboard focuses on:
+
+Competitor Price vs Product Price comparison
+
+Product Category Price Analysis
+
+Promotion Impact on Sales
+
+Price Gap Analysis
+
+Sales Volume by Promotion Status
+
+Seasonal Sales Analysis
 
 📖 Tableau Story
+<p align="center"> <img src="screenshots/story.png" width="900"> </p>
 
-The story presents the insights derived from the dashboards and explains how product placement and pricing strategies influence sales performance.
+The Tableau story explains how product placement strategies, pricing decisions, and promotional activities affect customer purchasing behavior and overall sales performance.
 
 📊 Key Insights
-
-The dashboards analyze:
-
-🛒 Sales Volume by Product Category
-
-🏬 Product Placement Impact (Front Store / Aisle / End-cap)
-
-💰 Product Price vs Competitor Price
-
-📦 Top N Best Selling Products
-
-📉 Sales Distribution by Category
-
-👥 Consumer Segment Analysis
-
-🎯 Promotion Impact on Sales
-
-🚶 Foot Traffic vs Sales Volume
-
+Analysis Area	Business Insight
+Product Placement	End-cap and front-store positions generate higher sales
+Pricing Strategy	Competitive pricing improves product demand
+Promotion Impact	Promotional campaigns increase sales volume
+Consumer Segmentation	Different customer groups show different buying patterns
+Foot Traffic	Higher store traffic leads to increased sales
 📂 Dataset
 
-Dataset used in this project:
+Dataset Source:
 
-Product Positioning Dataset
+🔗 https://www.kaggle.com/datasets/amitvkulkarni/impact-of-product-positioning-on-sales
 
-https://www.kaggle.com/datasets/amitvkulkarni/impact-of-product-positioning-on-sales
-
-It contains data related to:
+The dataset contains retail data related to:
 
 Product Category
 
@@ -75,12 +91,23 @@ Consumer Segment
 
 Foot Traffic Level
 
+Seasonal Flag
+
 🛠 Tools & Technologies
 Tool	Purpose
-📊 Tableau Public	Data Visualization
-📁 CSV Dataset	Retail Data
-📈 Analytics	Business Insights
-🐙 GitHub	Documentation
+📊 Tableau Public	Data Visualization & Dashboard Creation
+📁 CSV Dataset	Retail Sales Data
+📈 Data Analytics	Sales Trend Analysis
+🐙 GitHub	Project Documentation
+🔗 Tableau Project Links
+📊 Dashboard
+
+https://public.tableau.com/views/MyDashboard_17727348637840/Dashboard1
+
+📖 Story
+
+https://public.tableau.com/views/MyDashboard_17727348637840/Story1
+
 📂 Project Structure
 Strategic-Product-Placement-Analysis
 │
@@ -92,27 +119,14 @@ Strategic-Product-Placement-Analysis
 ├── 6.Performance Testing
 └── 7.Doc and Demo
 
-Each folder contains the documentation for the respective project lifecycle phase.
-
-🔗 Tableau Dashboard
-
-Explore the interactive dashboard here:
-
-👉 https://public.tableau.com/views/MyDashboard_17727348637840/Dashboard1
-
-📖 Tableau Story
-
-View the interactive story:
-
-👉 https://public.tableau.com/views/MyDashboard_17727348637840/Story1
-
-🚀 Project Outcome
-
-This project demonstrates how data visualization can help businesses optimize product placement strategies, pricing models, and promotional campaigns to improve retail sales performance.
+Each folder contains documentation related to the project lifecycle phases.
 
 👨‍💻 Author
 
 Saurav Kumar
+
 Data Analytics Project using Tableau
 
-⭐ If you found this project useful, consider starring the repository.
+⭐ Support
+
+If you found this project helpful, consider starring the repository.
