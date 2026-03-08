@@ -55,7 +55,7 @@ Dataset used in this project:
 
 Product Positioning Dataset
 
-Product Positioning.csv
+https://www.kaggle.com/datasets/amitvkulkarni/impact-of-product-positioning-on-sales
 
 It contains data related to:
 
