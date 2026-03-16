@@ -128,5 +128,3 @@ Data Analytics Project using **Tableau**
 ---
 
 # ⭐ Support
-
-Jo **Data Analyst portfolio project jaisa lagega (top 5-10% GitHub repos)**.
